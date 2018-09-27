@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UD02 EJ ControlesSelelccion</string>
+    <string-array name="valores_array_LV">
+        <item>LV-Elemento 1</item>
+        <item>LV-Elemento 2</item>
+        <item>LV-Elemento 3</item>
+        <item>LV-Elemento 4</item>
+        <item>LV-Elemento 5</item>
+        <item>LV-Elemento 6</item>
+        <item>LV-Elemento 7</item>
+        <item>LV-Elemento 8</item>
+    </string-array>
+</resources>
